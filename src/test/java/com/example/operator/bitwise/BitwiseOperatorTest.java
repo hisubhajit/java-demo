@@ -1,4 +1,4 @@
-package com.ecample.operator.bitwise;
+package com.example.operator.bitwise;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
